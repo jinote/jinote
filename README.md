@@ -12,7 +12,7 @@ Before joining the graduate program, I had worked as a research assistant for th
 
 **Data Mining/Machine Learning**: linear and logistic regression, random forests, decision tree, gradient boosting, clustering algorithms
 
-**Distributed Data/Big Data Technologies**: Hadoop MapReduce, Spark
+**Distributed Data/Big Data Technologies**: Hadoop MapReduce, Spark (In-progress)
 
 **Database Management**: SQL, MySQL, Google BigQuery, ETL processes
 
