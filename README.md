@@ -8,18 +8,18 @@ Before joining the graduate program, I had worked as a research assistant for th
 
 
 ### Technology Skills
-**Programming Languages**: Python (NumPy, pandas, Matplotlib, Seaborn, Scikit-learn), HTML5/CSS3
+**Programming Languages**: Python (NumPy, pandas, Matplotlib, Seaborn, Scikit-learn)
 
-**Data Mining/Machine Learning**: linear and logistic regression, random forests, gradient boosting, clustering algorithms
+**Data Mining/Machine Learning**: linear and logistic regression, random forests, decision tree, gradient boosting, clustering algorithms
 
 **Distributed Data/Big Data Technologies**: Hadoop MapReduce, Spark
 
 **Database Management**: SQL, MySQL, Google BigQuery, ETL processes
 
-**Cloud Computing**: Amazon Web Services (AWS): Kinesis, S3
+**Cloud Computing**: Amazon Web Services (AWS): EC2, ElasticSearch, Kinesis, S3
 
 **Productivity/Software Engineering**: GitHub, Docker, Unix/Linux shell
 
-**Data Visualization**: Tableau, Google Analytics, Adobe Analytics, Microsoft Excel
+**Data Visualization**: Tableau, Google Analytics, Adobe Analytics, Kibana, Microsoft Excel
 
 **Additional quantitative/technical skills**: Probability/statistics, linear algebra, data cleaning and visualization
