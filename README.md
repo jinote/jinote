@@ -8,7 +8,7 @@ Before joining the graduate program, I had worked as a research assistant for th
 
 
 ### Technology Skills 💻
-**Programming Languages**: Python (NumPy, pandas, Matplotlib, Seaborn, Scikit-learn)
+**Programming Languages**: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
 
 **Data Mining/Machine Learning**: linear and logistic regression, random forests, decision tree, gradient boosting, clustering algorithms
 
@@ -16,7 +16,7 @@ Before joining the graduate program, I had worked as a research assistant for th
 
 **Database Management**: SQL, MySQL, Google BigQuery, ETL processes
 
-**Cloud Computing**: AWS (EC2, ElasticSearch, Kinesis, S3)
+**Cloud Computing**: AWS (EC2, ElasticSearch, S3)
 
 **Productivity/Software Engineering**: GitHub, Docker, Unix/Linux shell
 
