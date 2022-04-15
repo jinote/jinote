@@ -16,7 +16,7 @@ Before joining the graduate program, I had worked as a research assistant for th
 
 **Database Management**: SQL, MySQL, Google BigQuery, ETL processes
 
-**Cloud Computing**: Amazon Web Services (AWS): EC2, ElasticSearch, Kinesis, S3
+**Cloud Computing**: AWS (EC2, ElasticSearch, Kinesis, S3)
 
 **Productivity/Software Engineering**: GitHub, Docker, Unix/Linux shell
 
