@@ -6,7 +6,7 @@ I am currently pursuing a Masters' degree in Information Systems/Data Analytics.
 
 ### Technology Skills 💻
 **Programming Languages**: Python (numPy, pandas, matplotlib, seaborn, scikit-learn)<br>
-**Database Management**: SQL, MySQL, Google BigQuery, ETL pipeline<br>
+**Database Management**: SQL, Google BigQuery, ETL pipeline<br>
 **Data Visualization**: Tableau, Google Analytics, Adobe Analytics, Kibana<br>
 **Data Mining/Machine Learning**: linear and logistic regression, random forests, decision tree, gradient boosting, clustering algorithms<br>
 **Distributed Data/Big Data Technologies**: Hadoop MapReduce, Spark (In-progress)<br>
